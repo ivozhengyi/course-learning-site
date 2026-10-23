@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程学习网站"
+  short_description: "将课件与考卷转为初学和复习双路线网站，缺少资料先交互询问，再完成内容与功能验收"
+  default_prompt: "用 $course-learning-site 为计算机网络制作课程学习网站；缺少必要信息时先用可点击选择题问我。"
